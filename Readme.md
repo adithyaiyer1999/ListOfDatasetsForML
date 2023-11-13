@@ -1,3 +1,11 @@
+The list below contains a list of datasets released post 2022 (post LAION-5B). Any dataset which existed before, and has been used extensively (like Imagenet, CIFAR-10, MS-COCO etc) is NOT in this list. I'll possibly create another list for it (stay tuned). The idea of this list is to create a "Dataset-of-Datasets", so it's easy for future researchers to combine a few of these datasets (take the best parts of each model). 
+
+To add a dataset - fill the form [here](https://forms.gle/4Namg5i6PSjNEwwh9).
+
+
+
+
+
 | Dataset Name                                                                                                 | Dataset Link                                                                                           | Dataset Description                                         | Size                |
 |-------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------|
 | LAION 400M                                                                                                   | [Link](https://laion.ai/projects/)                                                                     | Vision Language                                            | 400M                |
